@@ -17,7 +17,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router": "^3.0.0",
-    "simpl-schema": "0.0.3"
+    "simpl-schema": "1.10.2"
   },
   "engines": {
     "node": "8.15.1"
